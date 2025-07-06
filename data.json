@@ -2,26 +2,15 @@
   "Garen": {
     "health": 620,
     "armor": 36,
-    "magicResist": 32
+    "magicResist": 32,
+    "ad": 85,
+    "ap": 0
   },
   "Darius": {
     "health": 640,
     "armor": 39,
-    "magicResist": 28
-  },
-  "Lux": {
-    "health": 490,
-    "armor": 18,
-    "magicResist": 30
-  },
-  "Amumu": {
-    "health": 615,
-    "armor": 33,
-    "magicResist": 35
-  },
-  "Ahri": {
-    "health": 530,
-    "armor": 21,
-    "magicResist": 30
+    "magicResist": 28,
+    "ad": 85,
+    "ap": 0
   }
 }
