@@ -16,21 +16,21 @@
   "Lux": {
     "health": 490,
     "armor": 18,
-    "magicResist": 30
+    "magicResist": 30,
     "ad": 50,
     "ap": 85
   },
   "Amumu": {
     "health": 615,
     "armor": 33,
-    "magicResist": 35
+    "magicResist": 35,
     "ad": 55,
     "ap": 15
   },
   "Ahri": {
     "health": 530,
     "armor": 21,
-    "magicResist": 30
+    "magicResist": 30,
     "ad": 50,
     "ap": 100
   }
