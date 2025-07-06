@@ -12,5 +12,19 @@
     "magicResist": 28,
     "ad": 85,
     "ap": 0
+  },
+  "TahmKench": {
+    "health": 670,
+    "armor": 44,
+    "magicResist": 32,
+    "ad": 60,
+    "ap": 0
+  },
+  "Gragas": {
+    "health": 600,
+    "armor": 38,
+    "magicResist": 34,
+    "ad": 55,
+    "ap": 70
   }
 }
