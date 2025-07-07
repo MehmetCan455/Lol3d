@@ -1,29 +1,29 @@
 {
   "Garen": {
     "health": 620,
-    "armor": 36,
-    "magicResist": 32,
+    "armor": 84,
+    "magicResist": 51,
     "ad": 85,
     "ap": 0
   },
   "Darius": {
     "health": 640,
-    "armor": 39,
-    "magicResist": 28,
+    "armor": 79,
+    "magicResist": 45,
     "ad": 85,
     "ap": 0
   },
   "TahmKench": {
     "health": 670,
-    "armor": 44,
-    "magicResist": 32,
+    "armor": 90,
+    "magicResist": 60,
     "ad": 60,
     "ap": 0
   },
   "Gragas": {
     "health": 600,
-    "armor": 38,
-    "magicResist": 34,
+    "armor": 65,
+    "magicResist": 50,
     "ad": 55,
     "ap": 70
   }
